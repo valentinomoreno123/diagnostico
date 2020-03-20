@@ -1,0 +1,5 @@
+peso=float(input("ingrese su peso"))
+altura=float(input("ingresse su altura"))
+alt2=pow(altura,2)
+print("su masa corporal es:")  
+print(peso/alt2)

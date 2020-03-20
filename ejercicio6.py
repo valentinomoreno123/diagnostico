@@ -1,0 +1,9 @@
+a=2
+b=3
+c=2
+d=5
+ab=a+b
+cd=c*d
+total=ab/cd
+potencia=total*total
+print(potencia)
